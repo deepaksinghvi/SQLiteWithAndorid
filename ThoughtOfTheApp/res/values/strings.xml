@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello"></string>
+    <string name="app_name">Thought Of The Day</string>
+    <string name="btnThanks">Thanks</string>
+	<string name="btnNext">Next</string>
+</resources>
